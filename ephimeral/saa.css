@@ -1,0 +1,16 @@
+*{
+text-align: center;
+margin: 0px;
+	padding: 0px;
+	font-family: 'Courier New', Courier, monospace;
+	
+}
+header{
+	
+	background-color: rgb(236, 152, 192);
+	height: 100px;
+	width:100%;
+	text-align: center;
+	line-height: 100px;
+	
+}
